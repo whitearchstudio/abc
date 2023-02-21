@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Times New Roman; !important
-    font-size: 105%;
+    font-size: 110%;
 }
 
 h2{
@@ -152,7 +152,7 @@ footer {
 .testimonial .post{
  font-family: Times New Roman;
    display: inline-block;
-   font-size: 20px;
+   font-size: 24px;
    color: #848484;
 }
 .owl-theme .owl-controls{
